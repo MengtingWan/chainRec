@@ -4,9 +4,9 @@ import pandas as pd
 import sys
 import os
 
-DATA_DIR = "../data/"
-MODEL_DIR = "../models/"
-OUTPUT_DIR = "../results/"
+DATA_DIR = "./data/"
+MODEL_DIR = "./models/"
+OUTPUT_DIR = "./results/"
 
 for DIR in [DATA_DIR, MODEL_DIR, OUTPUT_DIR]:
     if not os.path.exists(DIR):

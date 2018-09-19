@@ -3,7 +3,7 @@ import pandas as pd
 import gzip
 import sys
 
-DATA_DIR = "../data/"
+DATA_DIR = "./data/"
 
 class Dataset(object):
     
