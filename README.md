@@ -10,5 +10,10 @@ If you would like to use our dataset, extend our algorithm, or use our source co
 
 Any questions please contact Mengting Wan (m5wan@ucsd.edu).
 
-## TO-DO
-Note: The source code cleaning has not been finished yet. I'm trying to finish it as soon as possible. Please stay tuned. -Mengting
+# Quick Start
+Quick start with a small dataset [YooChoose](http://2015.recsyschallenge.com/)
+`python test_final_stage --dataset yoochoose --method chainRec_uniform --nStage 2`
+Results will be saved under a folder `./results/`.
+
+# TO-DO
+Add more datasets, more baselines and more parameter options.
