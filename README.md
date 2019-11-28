@@ -8,7 +8,7 @@ We also contributed a new large-scale book review dataset -- Goodreads. Details 
 
 If you would like to use our dataset, extend our algorithm, or use our source code, please consider citing our paper (listed above). Thanks!
 
-Any questions please contact Mengting Wan (m5wan@ucsd.edu).
+Any questions please contact Mengting Wan (mengting.wan at gmail.com).
 
 ## What is chainRec?
 We unify a spectrum of implicit and explicit user feedback on a *monotonic behavior* whereany signal necessarily implies the presence of a weaker (or more implicit) signal. 
@@ -27,7 +27,7 @@ Given historical observations of users’ behavior chains, we seek to estimate t
 <td> <img src="img/edgeOpt.jpg " alt="Illustration of Edgewise Optimization" style="width: 300px;"/> </td>
 </tr></table>
 
-More details please consult in our [paper](https://cseweb.ucsd.edu/~m5wan/paper/recsys18_mwan.pdf).
+More details please consult in our [paper](https://github.com/MengtingWan/mengtingwan.github.io/raw/master/paper/recsys18_mwan.pdf).
 
 ## Quick Start
 
