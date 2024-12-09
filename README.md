@@ -8,7 +8,7 @@ We also contributed a new large-scale book review dataset -- Goodreads. Details 
 
 If you would like to use our dataset, extend our algorithm, or use our source code, please consider citing our paper (listed above). Thanks!
 
-Any questions please contact Mengting Wan (mengting.wan at gmail.com).
+Any questions please contact Mengting Wan (mengting.wan at microsoft.com).
 
 ## What is chainRec?
 We unify a spectrum of implicit and explicit user feedback on a *monotonic behavior* whereany signal necessarily implies the presence of a weaker (or more implicit) signal. 
